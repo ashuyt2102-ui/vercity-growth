@@ -1,0 +1,12 @@
+
+> vercity-growth@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.56.1:3000
+✓ Ready in 470ms
+✓ Running next.config.ts took 54ms
+
+○ Compiling / ...
+ GET / 200 in 521ms (next.js: 139ms, application-code: 381ms)
